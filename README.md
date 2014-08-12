@@ -1,4 +1,0 @@
-meter
-=====
-
-UTL prepaid meter
